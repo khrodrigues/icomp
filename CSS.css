@@ -1,0 +1,211 @@
+body
+{
+	width: 100%px;
+}
+
+#container
+{
+	position:relative;
+	border:2px solid black;
+	width: 960px;
+	height: 93%;
+	margin: 0 auto;
+	margin-top: 30px;
+	background: white;
+}
+
+#cabecalho 
+{
+	border-bottom:2px solid black;
+	width: 100%;
+	height: 60px;
+}
+#cabecalho h1
+{
+	text-align: left;
+	position: relative;
+	left: 20px;
+	font-size: 40px;
+}
+
+#cabecalho input
+{
+	position: relative;
+	float: right;
+	top: -27px;
+	height: 40px;
+}
+
+input:hover 
+{
+	background-color: #BEBEBE;
+}
+
+#fotoUsuario
+{ 
+	position: relative;
+	top: 10px;
+	left: 10px;
+	border: 2px solid black;
+	width: 120px;
+	height:130px;
+}
+
+#fotoUsuario img
+{
+	width: 100%;
+	height: 100%;
+}
+
+#conteudo
+{	
+	width: 100%;
+	height:79%;
+}
+
+#conteudo input
+{
+	font-size:15px;
+	position: relative;
+	top: 50px;
+	left: 50px;
+	margin-bottom:5px;
+	width: 150px;
+	height: 50px;
+}
+
+#conteudo textarea
+{
+	width: 500px;
+	height: 400px;
+	position: relative;
+	left: 350px;
+	top: -240px;
+}
+
+#detalhesUsuario
+{
+	border: 1px solid black;
+	width: 96%;
+	height: 150px;
+	position: relative;
+	left: 2%;
+	top: 7%;
+}
+
+#detalhesCurso
+{
+	border: 1px solid black;
+	width: 96%;
+	height: 150px;
+	position: relative;
+	left: 2%;
+	top: 15%;
+}
+
+#conteudo h2
+{
+	position: relative;
+	top: -10px;
+	left: 10px;
+}
+
+#conteudo a
+{
+	float: right;
+	position:relative;
+	top: -60px;
+	right: 10px;
+}
+
+#button1 textarea
+{
+	position: relative;
+	top: 50px;
+	left: 50px;
+	width: 400px;
+}
+
+#button2 textarea
+{
+	position: relative;
+	top: 50px;
+	top: -406px;
+	left: 500px;
+	width: 400px;
+}
+
+#button1 input
+{
+	position: relative;
+	left: 50px;
+}
+
+#button2 input
+{
+	position: relative;
+	left: 500px;
+	top: -406px;
+}
+
+#button3 h2
+{
+	position: relative;
+	left: 50px;
+	top: -380px;
+}
+
+#button3 textarea
+{
+	width: 400px;
+	position: relative;
+	left: 50px;
+	top: -380px;
+}
+
+#button4 h2
+{
+	position: relative;
+	left: 500px;
+	top: -840px;
+}
+
+#button4 textarea
+{
+	width: 400px;
+	height: 300px;
+	position: relative;
+	left: 500px;
+	top: -865px;
+}
+
+#escrever textarea
+{
+	height: 100px;
+	width: 300px;
+}
+
+#escrever input
+{
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -910px;
+	left: 496px;
+}
+
+#rodape
+{
+	clear: both;
+	border-top: 2px solid black;
+}
+
+#rodape p
+{
+	margin-top: 7px;
+}
+
+html
+{
+	overflow-x:hidden;
+}

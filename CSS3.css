@@ -1,0 +1,10 @@
+#container
+{
+	position:relative;
+	border:2px solid black;
+	width: 960px;
+	height: 183%;
+	margin: 0 auto;
+	margin-top: 30px;
+	background: white;
+}

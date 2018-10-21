@@ -1,0 +1,27 @@
+#cabecalho 
+{
+	border-bottom:2px solid black;
+	width: 100%;
+	height: 155px;
+}
+#cabecalho h1
+{
+	text-align: left;
+	position: relative;
+	top: -150px;
+	left: 150px;
+	font-size: 80px;
+}
+
+#rodape
+{
+	position: relative;
+	top: -65px;
+	clear: both;
+	border-top: 2px solid black;
+}
+
+#rodape p
+{
+	margin-top: 7px;
+}
